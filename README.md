@@ -1,4 +1,4 @@
-# Machine Learning classifier for Counter Strike GLobal Offensive matches
+# Machine Learning classifier for Counter Strike Global Offensive matches
 
 
 Introdução
